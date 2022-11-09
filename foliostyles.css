@@ -1,0 +1,129 @@
+*
+{
+box-sizing: border-box;
+margin: 0;
+padding: 0;
+
+}
+body
+{
+    background-color:#2c2c2c;
+    background-position: 100%;
+    margin-top: 0;
+}
+.name
+{
+   font-family:'Mochiy Pop One', sans-serif;
+   background-color: hsl(0, 0%, 0%);
+   color: whitesmoke;
+   font-size:x-large;
+   
+}
+
+header
+{
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    padding: 10px 10%;
+}
+.topnav {
+    background-color: #333;
+    overflow: hidden;
+    border-radius: 30dp;
+    
+  }
+  .topnav a {
+    font-family:'Mochiy Pop One', sans-serif;
+    float:left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 10px 10px;    
+    text-decoration: none;
+    font-size: 17px;  
+    border-radius: 10px;
+   
+  }
+  .topnav a:hover {
+    background-color:  cyan;
+    color: black;
+  }
+  #p
+  {
+      color: aqua;
+  }
+#mname
+{
+  font-family:'Times New Roman', Times, serif;
+  color: #f2f2f2;
+  font-size: x-large;
+  margin-left: 4%;
+}
+#pk
+{
+  font-family:'Mochiy Pop One', sans-serif;
+  color: cyan;
+  font-size: 2cm;
+  margin-left: 4%;
+  margin-top: 2%;
+}
+#sk
+{
+  font-family:'Mochiy Pop One', sans-serif;
+  color:white;
+  font-size: 2cm;
+  margin-left: 1%;
+  margin-top: 2%;
+  
+}
+#fresh
+{
+  font-family:'Times New Roman', Times, serif;
+  color: #f2f2f2;
+  font-size: x-large;
+  margin-left: 4%;
+}
+#btn
+{
+ 
+  background-color: aqua;
+  color:black;
+  height: 50px;
+  font-size: medium;
+  font-family: 'Mochiy Pop One', sans-serif;
+  border-radius: 8px;
+  padding: 10px;
+  text-align: center;
+  margin-left: 5cm;
+  margin-top: 0%;
+}
+#btn:hover
+{
+  color:black;
+  background-color: yellow;
+}
+#fb
+{
+  border-radius: 50%;
+  width: 50px;
+  margin-left: 20%;
+}
+#insta
+{
+  border-radius: 50%;
+  width: 50px;
+  margin-left: 4%;
+}
+#twitter
+{
+  border-radius: 50%;
+  width: 50px;
+  margin-left: 4%;
+}
+#linkedin
+{
+  border-radius: 53%;
+  width: 50px;
+  margin-left: 4%;
+}
+
